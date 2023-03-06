@@ -1,7 +1,7 @@
 
 # README
 
-此仓库用于创建个人学术主页，包括CV，Blogs，Papers（如果有的话）等。 : D
+此仓库用于创建[个人学术主页](https://hsienshaun.github.io/)，包括CV，Blogs，Papers（如果有的话）等。 : D
 
 
 
