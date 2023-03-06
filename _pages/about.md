@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# A data-driven personal website
-
 ## 资料收集 data-collections
 
 ## 个人笔记
