@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "MA XianSheng"
 title_separator          : "-"
-name                     : &name "马先盛"
+name                     : &name "hsienshaun"
 description              : &description "研二在读"
 url                      : https://hsienshaun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MA"
+  name             : "MAXS"
   avatar           : "profile.png"
   bio              : "研二在读"
   location         : "广州"

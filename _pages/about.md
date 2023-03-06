@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人学术主页"
+title: "academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-## 资料收集 data-collections
+模式识别与智能系统专业 硕士在读。我的研究领域包括计算机视觉和深度学习。
 
-## 个人笔记
+
+
+## 
 
 
 
