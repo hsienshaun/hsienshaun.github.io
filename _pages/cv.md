@@ -11,8 +11,11 @@ redirect_from:
 
 Education 教育经历
 ======
-* B.S. in Foshan University  佛山科学技术学院，本科，2016-2020
 * M.S. in Guangdong Polytechnic Normal University 广东技术师范大学，硕士，2021-
+
+* B.S. in Foshan University  佛山科学技术学院，本科，2016-2020
+
+    
 
 Work experience
 ======
@@ -24,18 +27,21 @@ Skills
 
 Publications
 ======
+
+<!--
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
+
+# Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+# Teaching
 
-Teaching
-======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -43,3 +49,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+
+-->
