@@ -146,7 +146,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - assets
 keep_files:
   - .git
   - .svn
@@ -261,7 +260,6 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -274,8 +272,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 # Archives
 #  Type
