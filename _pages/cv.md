@@ -11,8 +11,10 @@ redirect_from:
 
 Education 教育经历
 ======
-* M.S. in Guangdong Polytechnic Normal University 广东技术师范大学，硕士，2021-
-* B.S. in Foshan University  佛山科学技术学院，本科，2016-2020
+* M.S. in Guangdong Polytechnic Normal University, Pattern recognition and intelligent system, 2021.09-2024.06
+硕士研究生, 广东技术师范大学，模式识别与智能系统(控制科学与工程), 2021.09-2024.06
+* B.S. in Foshan University, Electronic Information Engineering, 2016.09-2020.06
+佛山科学技术学院，本科, 电子信息工程, 2016.09-2020.06
 
 Project
 ===
