@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* XianSheng Ma
-* Email: 435528142@qq.com
+* Name  :   XianSheng Ma
+* Email :   435528142@qq.com
 
 Education 教育经历
 ======
@@ -47,7 +47,7 @@ Skills
   * pillow, pandas, numpy, matplotlib, 
   * jupyter notebook, wandb, tensorboard, pytorch-lightning, timm, 
 * CET-6 : 520
-* office, 
+* office, LaTeX, ...
 
 Publications
 ======
